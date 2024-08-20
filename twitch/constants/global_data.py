@@ -1,0 +1,2 @@
+DEFAULT_TIMEOUT = 10
+STAR_CRAFT2 = 'StarCraft II'
